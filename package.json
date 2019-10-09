@@ -26,5 +26,9 @@
   "homepage": "https://github.com/learn-co-curriculum/js-task-lister-project",
   "devDependencies": {
     "learn-browser": "^0.1.12"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "semantic-ui-css": "^2.4.1"
   }
 }
